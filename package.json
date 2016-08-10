@@ -1,0 +1,19 @@
+{
+  "name": "node-car",
+  "version": "1.0.0",
+  "description": "Node + Raspberry pi + Motors = Awesomeness",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graghav/node-car.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graghav/node-car/issues"
+  },
+  "homepage": "https://github.com/Graghav/node-car#readme"
+}
